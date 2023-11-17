@@ -1,4 +1,4 @@
-# Little-Lemon
+# Little-Lemon 🍋
 
 <br>
 
