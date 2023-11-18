@@ -28,4 +28,25 @@ For the menu page, the owners would like to store the menu information in a data
 - Book page
 ![Screenshot from 2023-11-18 20-14-06](https://github.com/GergesHany/Little-Lemon/assets/105644935/ceb3f6f3-6f18-417e-90b3-8d38862b7fb0)
 
+<hr>
+
+- ## Command to perform migrations
+`python3 manage.py makemigrations`
+
+`python3 manage.py migrate`
+
+- ## Command to run server
+`python3 manage.py runserver`
+
+- ## Command to create a super user
+`python3 manage.py createsuperuser`
+
+
+## `Installing`
+```bash
+# downloading the project
+[git clone https://github.com/GergesHany/Hotel-reservation-system.git](https://github.com/GergesHany/Little-Lemon.git)
+```
+### After that, you need to open the project in your IDE and run it.
+
 
