@@ -4,7 +4,6 @@ from .forms import BookingForm
 from .models import Menu
 
 
-
 # Create your views here.
 def home(request):
     return render(request, 'index.html')
@@ -26,6 +25,7 @@ def book(request):
 #Menu Function
 def menu(request):
     menu_data = Menu.objects.all()
+    menu_data = menu_data.order_by('price')
     main_data = {"menu": menu_data}
     return render(request, 'menu.html', {"menu": main_data})
 
