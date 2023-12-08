@@ -11,7 +11,9 @@ For the menu page, the owners would like to store the menu information in a data
 <hr>
 
 - Home page:
-![Screenshot from 2023-11-18 20-13-31](https://github.com/GergesHany/Little-Lemon/assets/105644935/e3f96fe9-bfeb-441f-b256-28026d163b5b)
+
+![Home page](https://github.com/GergesHany/Little-Lemon/assets/105644935/ed14c250-a77c-4f11-bd07-c7aeb5898210)
+
 
 <hr>
 
